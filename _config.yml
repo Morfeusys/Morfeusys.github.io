@@ -1,0 +1,13 @@
+# Site settings
+title: Dima Che
+tag_text: Dima Che
+description: NLP and AI developer
+url: "http://che.dusi.mobi"
+baseurl: ""
+
+font-awesome-include: true # make this false if you don't need font-awesome
+
+# Build settings
+markdown: kramdown
+
+exclude: ["README.md"]
